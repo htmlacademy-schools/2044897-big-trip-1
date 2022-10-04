@@ -64,5 +64,5 @@ export default class FilterPresenter {
     this.filterModel.removeObserver(this.handleModelEvent);
 
     this.filterModel.setFilter(UpdateType.MAJOR, FilterType.EVERYTHING);
-  };
+  }; 
 }
