@@ -65,7 +65,7 @@ export default class PointNewPresenter {
   escKeyDownHandler = (e) => {
     if (e.key === 'Escape' || e.key === 'Esc') {
       e.preventDefault();
-      this.destroy();
+      this.destroy(); 
     }
   };
 }
