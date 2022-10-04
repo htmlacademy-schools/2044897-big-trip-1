@@ -115,6 +115,6 @@ export default class PointPresenter {
 
   handleFormSubmit = (point) => {
     this.changeData(UserAction.ADD_POINT, UpdateType.MINOR, point);
-    this.replaceFormToItem();
+    this.replaceFormToItem(); 
   };
 }
