@@ -12,4 +12,4 @@ export default class AbstractObservable {
   notify(event, payload) {
     this.observers.forEach((observer) => observer(event, payload));
   }
-}
+} 
