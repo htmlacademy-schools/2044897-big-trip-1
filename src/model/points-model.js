@@ -91,4 +91,4 @@ export default class PointsModel extends AbstractObservable {
 
     return adaptedPoint;
   };
-}
+} 
