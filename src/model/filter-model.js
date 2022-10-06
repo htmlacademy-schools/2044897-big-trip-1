@@ -12,4 +12,4 @@ export default class FilterModel extends AbstractObservable {
     this.filter = filter;
     this.notify(updateType, filter);
   };
-}
+} 
