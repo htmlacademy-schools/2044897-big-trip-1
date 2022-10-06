@@ -68,4 +68,4 @@ export default class PointNewPresenter {
       this.destroy(); 
     }
   };
-}
+} 
