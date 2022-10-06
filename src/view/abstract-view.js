@@ -25,4 +25,4 @@ export class AbstractComponent {
   deleteElement() {
     this.element = null;
   }
-}
+} 
