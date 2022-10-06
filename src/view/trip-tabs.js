@@ -18,4 +18,4 @@ export class TripTabs extends AbstractComponent {
       <a class="trip-tabs__btn" href="#" data-menu-item="${MenuItem.STATS}">Stats</a>
     </nav>`;
   }
-}
+} 
