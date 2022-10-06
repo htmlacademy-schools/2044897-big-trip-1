@@ -11,4 +11,4 @@ export class EmptyListView extends AbstractComponent {
   get getTemplate() {
     return `<p class="trip-events__msg">${NoPointsTextType[this.state]}</p>`;
   }
-}
+} 
