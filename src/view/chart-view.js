@@ -287,4 +287,4 @@ export class StatsView extends SmartComponent {
     this.typeChart = renderTypeChart(typeCtx, points);
     this.timeChart = renderTimeChart(timeCtx, points);
   };
-}
+} 
