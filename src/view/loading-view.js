@@ -6,4 +6,4 @@ export class LoadingView extends AbstractComponent {
     Loading...
     </p>`;
   }
-}
+} 
