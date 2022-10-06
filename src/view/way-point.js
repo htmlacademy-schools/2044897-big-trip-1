@@ -95,4 +95,4 @@ export class Waypoint extends AbstractComponent {
       </li>
   `;
   }
-}
+} 
