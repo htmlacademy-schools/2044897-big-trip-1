@@ -117,4 +117,4 @@ export default class PointPresenter {
     this.changeData(UserAction.ADD_POINT, UpdateType.MINOR, point);
     this.replaceFormToItem(); 
   };
-}
+} 
