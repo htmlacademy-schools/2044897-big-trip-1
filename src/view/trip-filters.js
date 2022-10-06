@@ -69,4 +69,4 @@ export class TripFilters extends AbstractComponent {
       <button class="visually-hidden" type="submit">Accept filter</button>
     </form>`;
   }
-}
+} 
