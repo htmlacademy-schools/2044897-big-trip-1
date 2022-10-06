@@ -227,4 +227,4 @@ export default class TripPresenter {
     this.pointsModel.removeObserver(this.handleModelEvent);
     this.filterModel.removeObserver(this.handleModelEvent);
   };
-}
+} 
