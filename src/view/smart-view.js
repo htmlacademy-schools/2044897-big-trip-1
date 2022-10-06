@@ -30,4 +30,4 @@ export class SmartComponent extends AbstractComponent {
   restoreHandlers = () => {
     throw new Error('Abstract method not implemented: restoreHandlers');
   };
-}
+} 
