@@ -38,4 +38,4 @@ export class Sort extends AbstractComponent {
     </form>
   `;
   }
-}
+} 
